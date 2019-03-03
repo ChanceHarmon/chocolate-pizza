@@ -1,0 +1,13 @@
+body {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.cursive {
+font-family: "Brush Script MT", cursive;
+}
+header section image{ 
+float: left;
+}
+.logo {
+  margin: auto;
+}
