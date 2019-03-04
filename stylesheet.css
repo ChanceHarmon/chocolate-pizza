@@ -1,13 +1,34 @@
 body {
+  width: 960px;
   margin-right: 50px;
   margin-left: 50px;
 }
 .cursive {
 font-family: "Brush Script MT", cursive;
 }
-header section image{ 
-float: left;
+header {
+  height: 75px;
+  width: 960px;
 }
-.logo {
-  margin: auto;
+
+header section {
+  width: 960px;
+  margin: 0 auto;
+}
+header img {
+  float: left;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+header p.cursive {
+  margin-top: 25px;
+}
+header ul {
+  float: right;
+}
+header li {
+  display: inline-block;
+  margin-bottom: 75px;
+  margin-right: 2px;
+  margin-left: 2px;
 }
